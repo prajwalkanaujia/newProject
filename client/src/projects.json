@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "ProjectID": 1,
+      "ProjectName": "Customer Relationship Management System",
+      "ProjectManager": {
+        "UserID": 101,
+        "Username": "pm_smith",
+        "FirstName": "John",
+        "LastName": "Smith"
+      },
+      "Description": "Developing a CRM system to manage customer interactions and streamline sales processes.",
+      "TechStack": ["Java", "Spring Boot", "Angular", "MySQL"]
+    },
+    {
+      "ProjectID": 2,
+      "ProjectName": "E-commerce Platform",
+      "ProjectManager": {
+        "UserID": 102,
+        "Username": "pm_doe",
+        "FirstName": "Jane",
+        "LastName": "Doe"
+      },
+      "Description": "Building an e-commerce platform for online retail, including shopping cart functionality and payment processing.",
+      "TechStack": ["Node.js", "Express", "React", "MongoDB"]
+    },
+    {
+      "ProjectID": 3,
+      "ProjectName": "Inventory Management System",
+      "ProjectManager": {
+        "UserID": 103,
+        "Username": "pm_johnson",
+        "FirstName": "Michael",
+        "LastName": "Johnson"
+      },
+      "Description": "Creating an inventory management system to track stock levels, orders, and supplier information.",
+      "TechStack": ["C#", ".NET Core", "Vue.js", "SQL Server"]
+    },
+    {
+      "ProjectID": 4,
+      "ProjectName": "Human Resource Management System",
+      "ProjectManager": {
+        "UserID": 104,
+        "Username": "pm_wilson",
+        "FirstName": "Emily",
+        "LastName": "Wilson"
+      },
+      "Description": "Developing an HR management system to streamline employee recruitment, onboarding, and performance evaluation processes.",
+      "TechStack": ["Python", "Django", "React", "PostgreSQL"]
+    },
+    {
+      "ProjectID": 5,
+      "ProjectName": "Content Management System",
+      "ProjectManager": {
+        "UserID": 105,
+        "Username": "pm_jackson",
+        "FirstName": "David",
+        "LastName": "Jackson"
+      },
+      "Description": "Building a CMS to manage digital content, including articles, images, and videos.",
+      "TechStack": ["PHP", "Laravel", "Vue.js", "MySQL"]
+    }
+  ]
+}

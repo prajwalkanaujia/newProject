@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "UserID": 1,
+      "Username": "john_doe",
+      "Password": "password123",
+      "Role": "Project Manager",
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@example.com",
+      "PhoneNumber": "123-456-7890"
+    },
+    {
+      "UserID": 2,
+      "Username": "jane_smith",
+      "Password": "qwerty456",
+      "Role": "Technical Lead",
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@example.com",
+      "PhoneNumber": "987-654-3210"
+    },
+    {
+      "UserID": 3,
+      "Username": "bob_jackson",
+      "Password": "securepass",
+      "Role": "SoftwareEngineer",
+      "FirstName": "Bob",
+      "LastName": "Jackson",
+      "Email": "bob.jackson@example.com",
+      "PhoneNumber": "555-123-4567"
+    },
+    {
+      "UserID": 4,
+      "Username": "sarah_brown",
+      "Password": "pass123",
+      "Role": "SoftwareEngineer",
+      "FirstName": "Sarah",
+      "LastName": "Brown",
+      "Email": "sarah.brown@example.com",
+      "PhoneNumber": "111-222-3333"
+    },
+    {
+      "UserID": 5,
+      "Username": "michael_green",
+      "Password": "greenmike",
+      "Role": "Intern",
+      "FirstName": "Michael",
+      "LastName": "Green",
+      "Email": "michael.green@example.com",
+      "PhoneNumber": "444-555-6666"
+    },
+    {
+      "UserID": 6,
+      "Username": "emily_wilson",
+      "Password": "emilypass",
+      "Role": "User",
+      "FirstName": "Emily",
+      "LastName": "Wilson",
+      "Email": "emily.wilson@example.com",
+      "PhoneNumber": "777-888-9999"
+    }
+  ]
+}
